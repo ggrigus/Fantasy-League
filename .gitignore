@@ -1,0 +1,20 @@
+.idea
+*.iml
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Mobile Tools for Java
+*.mtj.temp/
+
+# Package Files
+*.jar
+*.war
+*.car
+*.zip
+*.tar.gz
+*.rar
+
